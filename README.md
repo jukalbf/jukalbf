@@ -46,4 +46,4 @@
 </div>
 
 ## 🌟 Atualmente trabalhando nesses repositórios
-- [Site Grupo Du car](https://github.com/GrupoDu/grupodu-landingpage)
+> [Site Grupo Du car](https://github.com/GrupoDu/grupodu-landingpage)
