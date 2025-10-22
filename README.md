@@ -8,7 +8,7 @@
 			</td>
 			<td>
 				<h3>Olá! Me chamo João Lucas!</h3>
-				<p>Sou Dev Frontend Next.js e tenho um breve conhecimento de Backend com Javascript/Typescript</p>
+				<p>Sou Dev Frontend Next.js e tenho um breve conhecimento de Backend com Javascript/Typescript.</p>
 				<p><i>Atualmente estudando C# e Angular</i></p>
 				<p><strong>Experiências:</strong> Estagiando na empresa Dom Metal - 02/06/2025 até 05/12/2025</p>	
 				<br />
@@ -44,5 +44,6 @@
 		</tr>
 	</table>
 </div>
-## Atualmente trabalhando nesses repositórios
-- #### [Site Grupo Du car](https://github.com/jukalbf/grupodu-landingpage.git)
+
+## 🌟 Atualmente trabalhando nesses repositórios
+- [Site Grupo Du car](https://github.com/GrupoDu/grupodu-landingpage)
