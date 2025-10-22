@@ -1,21 +1,17 @@
-*Banner aqui*
-<img />
-*Banner aqui*
-	<table>
-		<tr>
-			<td valing="center" style="border: 2px solid #58a6ff; border-radius: 15px; padding: 20px;" width="40%">
-				<img src="./imgs/foto.jpg" style="width: 100%; border-radius: 20px;"/>
-			</td>
-			<td>
-				<h3>Olá! Me chamo João Lucas!</h3>
-				<p>Sou Dev Frontend Next.js e tenho um breve conhecimento de Backend com Javascript/Typescript.</p>
-				<p><i>Atualmente estudando C# e Angular</i></p>
-				<p><strong>Experiências:</strong> Estagiando na empresa Dom Metal - 02/06/2025 até 05/12/2025</p>	
-				<br />
-			</td>
-		</tr>
-	</table>
-
+<table>
+	<tr>
+		<td valing="center" style="border: 2px solid #58a6ff; border-radius: 15px; padding: 20px;" width="40%">
+			<img src="./imgs/foto.jpg" style="width: 100%; border-radius: 20px;"/>
+		</td>
+		<td>
+			<h3>Olá! Me chamo João Lucas!</h3>
+			<p>Sou Dev Frontend Next.js e tenho um breve conhecimento de Backend com Javascript/Typescript.</p>
+			<p>Cursando 5º período de ADS na faculdade SENAC Recife</p>
+			<p><i>Atualmente estudando C# e Angular</i></p>
+			<p><strong>Experiências:</strong> Estagiando na empresa Dom Metal - 02/06/2025 até 05/12/2025</p>	
+		</td>
+	</tr>
+</table>
 ## Estatisticas do Github
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=jukalbf&show_icons=true&theme=radical)
 <br />
@@ -47,3 +43,6 @@
 
 ## 🌟 Atualmente trabalhando nesses repositórios
 > [Site Grupo Du car](https://github.com/GrupoDu/grupodu-landingpage)
+
+## ✅ Projeto finalizados
+> [Fuzuê](https://github.com/jukalbf/fuzue-landingpage.git)
