@@ -18,7 +18,7 @@
 <br />
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jukalbf&layout=compact&theme=radical)
 
-## 🚀 Tecnologias que domino:
+## 🚀 Tecnologias que utilizo
 <div style="border: 1px solid white; border-radius: 6px margin: 0 auto">
 	<table>
 		<tr>
@@ -42,8 +42,8 @@
 	</table>
 </div>
 
-## 🌟 Atualmente trabalhando nesses repositórios
+### 🌟 Atualmente trabalhando nesses repositórios
 > [Site Grupo Du car](https://github.com/GrupoDu/grupodu-landingpage)
 
-## ✅ Projeto finalizados
+### ✅ Projeto finalizados
 > [Fuzuê](https://github.com/jukalbf/fuzue-landingpage.git)
