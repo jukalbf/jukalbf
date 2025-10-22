@@ -9,6 +9,14 @@
 			<p>Cursando 5º período de ADS na faculdade SENAC Recife</p>
 			<p><i>Atualmente estudando C# e Angular</i></p>
 			<p><strong>Experiências:</strong> Estagiando na empresa Dom Metal - 02/06/2025 até 05/12/2025</p>	
+			<span><strong>Contatos: </strong></span>
+			<br />
+			<a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-bivar-de-fran%C3%A7a-4488042a2/">
+				<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+			</a>
+			<a href="joao.lubf@gmail.com">
+				<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+			</a>
 		</td>
 	</tr>
 </table>
@@ -23,29 +31,28 @@
   <img height="180em" src="https://streak-stats.demolab.com/?user=jukalbf&theme=radical"/>
 </div>
 
-## 🚀 Tecnologias que utilizo
-<div style="border: 1px solid white; border-radius: 6px" align="center">
-	<table>
-		<tr>
-			<td valign="center" align="center">
-				<h4>💻 Linguagens</h4>
-				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40 />	
-				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40 height=40 />
-			</td>
-			<td valign="center" align="center">
-				<h4>🌐 Linguagens Web</h4>
-				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg", width=40 height=40 />
-				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=40 height=40 />
-				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width=40 height=40 />
-			</td>
-			<td valign="center" align="center">
-				<h4>⚡ Frameworks</h4>
-    			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=40 height=40 /> 
-				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg", width=40 height=40 />
-			</td>
-		</tr>
-	</table>
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="left">
+  
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+### Estilização
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+
+### Estudando
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  
 </div>
+
+---
 
 ### 🌟 Atualmente trabalhando nesses repositórios
 > [Site Grupo Du car](https://github.com/GrupoDu/grupodu-landingpage)
