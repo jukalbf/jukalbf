@@ -13,13 +13,18 @@
 	</tr>
 </table>
 
-## Estatisticas do Github
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=jukalbf&show_icons=true&theme=radical)
-<br />
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jukalbf&layout=compact&theme=radical)
+## 📊 Estatisticas do Github
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jukalbf&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jukalbf&layout=compact&theme=radical"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=jukalbf&theme=radical"/>
+</div>
 
 ## 🚀 Tecnologias que utilizo
-<div style="border: 1px solid white; border-radius: 6px margin: 0 auto">
+<div style="border: 1px solid white; border-radius: 6px" align="center">
 	<table>
 		<tr>
 			<td valign="center" align="center">
