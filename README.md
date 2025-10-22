@@ -12,6 +12,7 @@
 		</td>
 	</tr>
 </table>
+
 ## Estatisticas do Github
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=jukalbf&show_icons=true&theme=radical)
 <br />
