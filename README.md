@@ -35,18 +35,18 @@
 
 <div align="left">
   
-### Frontend
+<h3>Frontend</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-### Estilização
+<h3>Estilização</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 
-### Estudando
+<h3>Estudando</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
   
@@ -55,7 +55,7 @@
 ---
 
 ### 🌟 Atualmente trabalhando nesses repositórios
-> [Site Grupo Du car](https://github.com/GrupoDu/grupodu-landingpage)
+> [Site Grupo Du Car](https://github.com/GrupoDu/grupodu-landingpage)
 
 ### ✅ Projeto finalizados
 > [Fuzuê](https://github.com/jukalbf/fuzue-landingpage.git)
