@@ -1,7 +1,7 @@
 <table>
 	<tr>
 		<td valing="center" style="border: 2px solid #58a6ff; border-radius: 15px; padding: 20px;" width="40%">
-			<img src="./imgs/foto.jpg" style="width: 100%; border-radius: 20px;"/>
+			<img src="./imgs/foto.jpg" style="width: 100%; border-radius: 20px;" align="center" valign="center"/>
 		</td>
 		<td>
 			<h3>Olá! Me chamo João Lucas!</h3>
